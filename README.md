@@ -11,4 +11,15 @@ How to use:
 
 
 Result:
-![Image text](/image/intial_value.jpg)
+
+![Initial Position](image/intial_value.png)
+
+![Iteration One](image/iter_1.png)
+
+![Iteration Five](image/iter_5.png)
+
+![Iteration Ten](image/iter_10.png)
+
+![Iteration Twenty](image/iter_20.png)
+
+![Iteration Fifty](image/iter_50.png)
