@@ -1,6 +1,8 @@
 # ICP-MATLAB-Code
 Iterative closet point algorithm (Point to point distance)
-Theory derivation can be seen in cs685-icp.pdf P8
+
+
+Remark: Theory derivation can be seen in cs685-icp.pdf P8
 
 
 How to use:
