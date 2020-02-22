@@ -11,4 +11,4 @@ How to use:
 
 
 Result:
-
+![Image text](/image/intial_value.jpg)
